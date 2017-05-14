@@ -1,4 +1,4 @@
-# Manage Your Datasets
+# Organize and Manage Your Datasets
 Rather than having many datasets (csv & txt) littering different folders all over your laptop or PC, you can save all the datasets in a folder, write them all to one single SQLite database file and manage them from there.
 You can:
 * add up more dataset to the database at any time.
