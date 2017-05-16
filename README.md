@@ -1,7 +1,7 @@
 # Organize and Manage Your Datasets
-As a data analyst or scientist, you probably have one or more datasets you are using for your analysis. Rather than having many datasets (csv & txt) littering different folders all over your laptop or PC, you can save all the datasets in a folder, write them all to one single SQLite database file and manage them from there.  
+As a data analyst or scientist, you probably have one or more datasets kept in different folders on your laptop or PC. To better organize the datasets, you can write them to one SQLite database file and manage them from there.  
 
-You can:
+With all your datasets in a single database file, you can:
 * add up more dataset to the database at any time.
 * list and see all the datasets in the database at any time.
 * check up the fields or columns that make up each dataset or table.
