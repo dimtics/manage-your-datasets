@@ -8,4 +8,4 @@ You can:
 * load any dataset directly from the database.
 * drop any dataset or table as you like.
 
-How to do that? Follow the codes in this notebook.
+How to do that? Follow the codes in this jupyter notebook.
