@@ -3,9 +3,9 @@ As a data analyst or scientist, you probably have one or more datasets kept in d
 
 With all your datasets in a single database file, you can:
 * add up more dataset to the database at any time.
-* list and see all the datasets in the database at any time.
-* check up the fields or columns that make up each dataset or table.
+* list and view all the datasets in the database at any time.
+* view the fields or columns of each dataset or table.
 * load any dataset directly from the database.
 * drop any dataset or table as you like.
 
-How to do that? Follow the codes in this jupyter notebook.
+
